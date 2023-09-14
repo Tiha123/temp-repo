@@ -1,6 +1,6 @@
 # temp-repo
-Lecture2
--Making repository.
--Committing files.
--Making branches.
--Pulling requests and merging with main branch.
+Lecture2\n
+-Making repository.\n
+-Committing files.\n
+-Making branches.\n
+-Pulling requests and merging with main branch.\n
